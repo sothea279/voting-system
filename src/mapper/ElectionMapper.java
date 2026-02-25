@@ -1,4 +1,4 @@
-package mappper;
+package mapper;
 
 import model.entities.Election;
 
